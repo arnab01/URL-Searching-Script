@@ -1,0 +1,16 @@
+language: python
+python:
+  - "3.8"
+  - "3.9"
+# command to install dependencies
+install:
+  - pip3 install -r requirements.txt 
+  - pip install pytest
+  - pip install pytest-cov
+  - pip install coveralls
+# command to run tests
+script:
+  - coverage run --source=test_main -m test_main
+   
+after_success:
+  - coveralls
