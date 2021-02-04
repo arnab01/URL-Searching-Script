@@ -11,7 +11,7 @@ setup(
 		version ='1.0.0', 
 		author ='Arnab Datta', 
 		author_email ='arnab.datta123@gmail.com', 
-		url ='https://github.com/Vibhu-Agarwal/vibhu4gfg', 
+		url ='https://github.com/arnab01/URL-Searching-Script', 
 		description ='Search for an wikipedia url', 
 		long_description = long_description, 
 		long_description_content_type ="text/markdown", 
