@@ -2,6 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/arnab01/URL-Searching-Script/badge.svg?branch=main)](https://coveralls.io/github/arnab01/URL-Searching-Script?branch=main)
 [![Build Status](https://travis-ci.com/arnab01/URL-Searching-Script.svg?branch=main)](https://travis-ci.com/arnab01/URL-Searching-Script)
 
+This project builds a script command to search for an url and auto-save into a generated file with a display of progress meter. 
 #### How to run : 
   1) [Download](https://github.com/arnab01/URL-Searching-Script/archive/main.zip) this repository and extract the zip-file.
   2) Navigate into the folder.
